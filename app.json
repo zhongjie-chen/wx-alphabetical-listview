@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/alphabetList/alphabetList"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "alphabetList",
+    "navigationBarTextStyle":"black"
+  }
+}
