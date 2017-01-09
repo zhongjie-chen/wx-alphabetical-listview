@@ -1,29 +1,26 @@
 
 #wx-alphabetical-listview
 
-这是一个带字母可滑动的列表小程序。
+这是一个带字母可滑动的列表小程序。😃
 
-## 如何插入
+## 截屏
+
+### 电脑上的截屏
+![](https://github.com/zhongjie-chen/blog/blob/gh-pages/img/alphalistview.gif)
+
+## 如何使用
 
 1. 复制page下的文件夹到自己项目中
 2. 配置app.json
 3. 编译
 
-## 截屏-
+## 功能
 
-### 电脑上的截屏-
-![](https://github.com/zhongjie-chen/blog/blob/gh-pages/img/alphalistview.gif)
+- [x] 带字母滑动或点击选择的列表页面
+- [x]在android ios 平台测试，确保真实环境一致
+- [ ] 小程序目前不支持组件化；后期会抽离一些公共的东西，让使用起来更加方便
 
-### 手机上的截屏
+### 其它
 
-==
-
-## 致谢
-
-猫眼电影小程序
-
-
-###其它-
-
-- 欢迎issue
-- 欢迎pr
+- 👉 欢迎issue
+- 👉 欢迎pr
