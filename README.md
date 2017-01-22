@@ -1,11 +1,12 @@
 
 #wx-alphabetical-listview
 
-这是一个带字母可滑动的列表小程序。😃
+这是一个带字母可滑动的列表小程序。😃😃
 
 ## 其他组件
 - [wx-drawer模仿QQ6.0侧滑菜单](https://github.com/zhongjie-chen/wx-drawer)
 - [wx-scrollable-tab-view可滚动的tabview](https://github.com/zhongjie-chen/wx-scrollable-tab-view)
+
 
 ## 截屏
 
