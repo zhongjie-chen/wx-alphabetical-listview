@@ -12,3 +12,23 @@ git commit
 git am -m ''
 git reset
 git revert
+git push origin/master
+git pull origin/master
+
+
+class Hello extends React.Compoment {
+  state = {
+    hello: 1
+  }
+  render () {
+    <div>
+      {this.state.hello}     
+    </div>
+  }
+}
+
+
+
+
+
+
